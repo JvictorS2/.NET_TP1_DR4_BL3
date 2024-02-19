@@ -10,6 +10,6 @@ os métodos destes arquivos, escolhi fazer deste jeito por uma questão de organ
 
 O arquivo Program.Instance.cs cria e instância um objeto do tipo pessoa. 
 
-O arquivo Program.Menu.cs cria um menu com algumas opções e usando entradas numéricas para executar determinadas ações como criar um objeto pessoa, listar objetos pesso existentes
+O arquivo Program.Menu.cs cria um menu com algumas opções e usando entradas numéricas para executar determinadas ações como criar um objeto pessoa, listar objetos pessoa existentes
 e encerrar o programa.
 
